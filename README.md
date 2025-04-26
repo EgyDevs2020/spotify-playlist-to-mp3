@@ -30,6 +30,9 @@ Built for creators, casual listeners, and developers who want clean local music 
 
 ✅ Your MP3s will be saved inside a `Downloaded` folder (auto-created).
 
+## 🚀 Downlaod
+[Download Here](https://github.com/EgyDevs2020/spotify-playlist-to-mp3/releases/latest)
+
 ---
 
 # 🛠 For Developers
