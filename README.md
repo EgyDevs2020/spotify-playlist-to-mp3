@@ -28,7 +28,7 @@ Built for creators, casual listeners, and developers who want clean, offline mus
 3. Open `Spotify Playlist to MP3.exe`
 4. On first launch:
 - Enter your **Spotify API Client ID and Secret**
-- [Get them for free here](https://developer.spotify.com/dashboard)
+- [Get them from your Spotify Account Here](https://developer.spotify.com/dashboard)
 5. Paste a Spotify playlist link
 6. Fetch → Select → Download 🎶
 7. All songs will be saved inside the `Downloaded/` folder
@@ -41,10 +41,6 @@ Built for creators, casual listeners, and developers who want clean, offline mus
 
 You’ll find the full source code inside `/source/` (see the release assets).
 
-### 📁 Folder Structure
-
-
----
 
 ### 📦 Dependencies
 
